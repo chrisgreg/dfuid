@@ -10,6 +10,9 @@
   "author": "Chris Gregori",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^18.1.0"
+    "fastbench": "^1.0.1",
+    "jest": "^18.1.0",
+    "shortid": "^2.2.6",
+    "uuid": "^3.0.1"
   }
 }
