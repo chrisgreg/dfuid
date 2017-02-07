@@ -1,0 +1,15 @@
+{
+  "name": "dfuid",
+  "version": "1.0.0",
+  "description": "Dumb, fast, unique id generator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest",
+    "benchmark": "node benchmarks/benchmark.js"
+  },
+  "author": "Chris Gregori",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
